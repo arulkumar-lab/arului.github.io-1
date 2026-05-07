@@ -1,0 +1,346 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e4]:
+      - link "A R U LUI" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+        - generic [ref=e11]: A R U LUI
+      - generic [ref=e12]:
+        - link "Home" [ref=e13] [cursor=pointer]:
+          - /url: /
+          - text: Home
+        - link "About" [ref=e15] [cursor=pointer]:
+          - /url: /about
+        - link "Services" [ref=e16] [cursor=pointer]:
+          - /url: /services
+        - link "Contact" [ref=e17] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=e18]:
+        - link "GitHub" [ref=e19] [cursor=pointer]:
+          - /url: https://github.com/arulkumar-lab
+          - img [ref=e20]
+        - button "Toggle theme" [ref=e23] [cursor=pointer]:
+          - img [ref=e24]
+  - main [ref=e30]:
+    - generic [ref=e33]:
+      - generic [ref=e35]: Full-Stack Engineer · AI Developer · MCP Practitioner · Glasgow
+      - heading "Hello, I'm Arul" [level=1] [ref=e39]
+      - paragraph [ref=e40]: Full-stack engineer with 1+ year of advanced AI development — building agentic workflows, integrating MCP servers, and shipping production features through vibe coding. Java, TypeScript, and the entire AI-native stack.
+      - generic [ref=e41]:
+        - link "About me" [ref=e42] [cursor=pointer]:
+          - /url: /about
+          - img [ref=e43]
+          - text: About me
+        - link "GitHub" [ref=e45] [cursor=pointer]:
+          - /url: https://github.com/arulkumar-lab
+          - img [ref=e46]
+          - text: GitHub
+      - generic [ref=e49]:
+        - generic [ref=e50]: React / Next.js
+        - generic [ref=e52]: Java / Spring
+        - generic [ref=e54]: TypeScript
+        - generic [ref=e56]: CI/CD
+        - generic [ref=e58]: Google Cloud
+        - generic [ref=e60]: Microservices
+        - generic [ref=e62]: GitHub Copilot
+        - generic [ref=e64]: MCP / AI Agents
+        - generic [ref=e66]: Vibe Coding
+        - generic [ref=e68]: LLM Integration
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - img [ref=e75]
+          - generic [ref=e78]: Career Performance
+        - heading "AI Activity & Impact Summary" [level=2] [ref=e79]
+        - paragraph [ref=e80]: A snapshot of my AI-driven engineering activity over the past year — from agentic workflows to advanced MCP integrations.
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - img [ref=e84]
+          - generic [ref=e94]: 1+
+          - generic [ref=e95]: Years AI-Driven Dev
+        - generic [ref=e96]:
+          - img [ref=e98]
+          - generic [ref=e101]: 15+
+          - generic [ref=e102]: MCP Servers Integrated
+        - generic [ref=e103]:
+          - img [ref=e105]
+          - generic [ref=e107]: 50+
+          - generic [ref=e108]: AI-Assisted Projects
+        - generic [ref=e109]:
+          - img [ref=e111]
+          - generic [ref=e114]: 30+
+          - generic [ref=e115]: Agentic Workflows Built
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - img [ref=e120]
+            - heading "Advanced AI Development" [level=3] [ref=e131]
+          - paragraph [ref=e132]: Over a year of hands-on experience building AI-augmented full-stack applications — integrating LLMs, prompt engineering, RAG pipelines, and AI-powered APIs into production-grade systems.
+          - generic [ref=e133]:
+            - generic [ref=e134]: LLMs
+            - generic [ref=e135]: Prompt Engineering
+            - generic [ref=e136]: RAG
+            - generic [ref=e137]: AI APIs
+        - generic [ref=e138]:
+          - generic [ref=e139]:
+            - img [ref=e141]
+            - heading "Vibe Coding" [level=3] [ref=e144]
+          - paragraph [ref=e145]: Pioneered a vibe-coding workflow using GitHub Copilot, Cursor, and Claude — dramatically accelerating development cycles. From rapid prototyping to production features, AI is embedded in every commit.
+          - generic [ref=e146]:
+            - generic [ref=e147]: GitHub Copilot
+            - generic [ref=e148]: Cursor
+            - generic [ref=e149]: Claude
+            - generic [ref=e150]: AI Pair Programming
+        - generic [ref=e151]:
+          - generic [ref=e152]:
+            - img [ref=e154]
+            - heading "Advanced MCP Usage" [level=3] [ref=e158]
+          - paragraph [ref=e159]: "Deep expertise in Model Context Protocol — building and consuming MCP servers to extend AI agents with real-world tools: databases, APIs, CI/CD pipelines, Figma, GitHub, and more."
+          - generic [ref=e160]:
+            - generic [ref=e161]: MCP Servers
+            - generic [ref=e162]: AI Agents
+            - generic [ref=e163]: Tool Use
+            - generic [ref=e164]: Agentic Pipelines
+        - generic [ref=e165]:
+          - generic [ref=e166]:
+            - img [ref=e168]
+            - heading "Full-Stack AI Integration" [level=3] [ref=e173]
+          - paragraph [ref=e174]: Bridging back-end Java/Spring services with AI-native front-ends in Next.js. Shipping features with agentic code review, AI-generated tests, and automated documentation at every layer of the stack.
+          - generic [ref=e175]:
+            - generic [ref=e176]: Next.js
+            - generic [ref=e177]: Spring Boot
+            - generic [ref=e178]: AI Testing
+            - generic [ref=e179]: Auto-Docs
+      - generic [ref=e180]:
+        - generic [ref=e181]:
+          - img [ref=e182]
+          - generic [ref=e186]: Activity Highlights · May 2025 – May 2026
+        - generic [ref=e187]:
+          - generic [ref=e188]:
+            - generic [ref=e189]:
+              - img [ref=e190]
+              - generic [ref=e192]: AI Development
+            - list [ref=e193]:
+              - listitem [ref=e194]: Shipped LLM-powered features in production apps
+              - listitem [ref=e195]: Built RAG pipelines with vector DBs
+              - listitem [ref=e196]: Integrated OpenAI, Claude & Gemini APIs
+              - listitem [ref=e197]: Prompt-engineered across 10+ domains
+          - generic [ref=e198]:
+            - generic [ref=e199]:
+              - img [ref=e200]
+              - generic [ref=e202]: Vibe Coding
+            - list [ref=e203]:
+              - listitem [ref=e204]: Daily GitHub Copilot & Cursor workflow
+              - listitem [ref=e205]: AI-generated tests & code reviews
+              - listitem [ref=e206]: Automated scaffolding via agent loops
+              - listitem [ref=e207]: Reduced delivery time by ~60%
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - img [ref=e210]
+              - generic [ref=e212]: Advanced MCP
+            - list [ref=e213]:
+              - listitem [ref=e214]: Built custom MCP servers (GitHub, DB, CI/CD)
+              - listitem [ref=e215]: Orchestrated multi-agent task pipelines
+              - listitem [ref=e216]: Integrated Figma & browser automation via MCP
+              - listitem [ref=e217]: 15+ MCP tools in active daily use
+    - generic [ref=e219]:
+      - generic [ref=e220]:
+        - generic [ref=e222]: Live · Pulled from GitHub API
+        - heading "GitHub Copilot Usage Report" [level=2] [ref=e226]
+        - paragraph [ref=e227]: Real statistics pulled from the GitHub Copilot API — plan details, quota usage, and live activity from my engineering workflow.
+      - generic [ref=e228]:
+        - generic [ref=e229]:
+          - img [ref=e231]
+          - generic [ref=e233]:
+            - paragraph [ref=e234]: Plan
+            - paragraph [ref=e235]: Copilot Business
+            - paragraph [ref=e236]: Enterprise-grade
+        - generic [ref=e237]:
+          - img [ref=e239]
+          - generic [ref=e241]:
+            - paragraph [ref=e242]: Active Since
+            - paragraph [ref=e243]: 31 Oct 2025
+            - paragraph [ref=e244]: 6 months active
+        - generic [ref=e245]:
+          - img [ref=e247]
+          - generic [ref=e250]:
+            - paragraph [ref=e251]: MCP
+            - paragraph [ref=e252]: Enabled ✓
+            - paragraph [ref=e253]: Tool-use & Agents
+      - generic [ref=e254]:
+        - generic [ref=e255]:
+          - generic [ref=e256]:
+            - generic [ref=e257]:
+              - img [ref=e258]
+              - generic [ref=e260]: Copilot Chat
+            - generic [ref=e261]: Enabled
+          - generic [ref=e262]:
+            - generic [ref=e263]: ∞
+            - generic [ref=e264]: Unlimited
+          - paragraph [ref=e267]: No cap · 100% quota remaining
+        - generic [ref=e268]:
+          - generic [ref=e269]:
+            - generic [ref=e270]:
+              - img [ref=e271]
+              - generic [ref=e274]: Code Completions
+            - generic [ref=e275]: Enabled
+          - generic [ref=e276]:
+            - generic [ref=e277]: ∞
+            - generic [ref=e278]: Unlimited
+          - paragraph [ref=e281]: No cap · inline suggestions always on
+        - generic [ref=e282]:
+          - generic [ref=e283]:
+            - generic [ref=e284]:
+              - img [ref=e285]
+              - generic [ref=e287]: Premium Interactions
+            - generic [ref=e288]: 300 / mo
+          - generic [ref=e289]:
+            - generic [ref=e290]: "8"
+            - generic [ref=e291]: used this month
+          - paragraph [ref=e294]: 292 remaining · resets 1 Jun 2026
+      - generic [ref=e295]:
+        - generic [ref=e296]:
+          - img [ref=e297]
+          - generic [ref=e299]: GitHub Activity · April 2026
+        - generic [ref=e300]:
+          - generic [ref=e301]:
+            - img [ref=e303]
+            - generic [ref=e307]: "19"
+            - generic [ref=e308]: PRs Opened
+          - generic [ref=e309]:
+            - img [ref=e311]
+            - generic [ref=e315]: "18"
+            - generic [ref=e316]: PRs Merged
+          - generic [ref=e317]:
+            - img [ref=e319]
+            - generic [ref=e322]: 95%
+            - generic [ref=e323]: Merge Rate
+          - generic [ref=e324]:
+            - img [ref=e326]
+            - generic [ref=e330]: "29"
+            - generic [ref=e331]: Push Events
+          - generic [ref=e332]:
+            - img [ref=e334]
+            - generic [ref=e336]: "18"
+            - generic [ref=e337]: Branches Created
+        - paragraph [ref=e338]: "Source: GitHub Events API · RadhakrishnanA_cvsh · 1 Apr – 1 May 2026"
+    - generic [ref=e340]:
+      - generic [ref=e341]:
+        - generic [ref=e342]:
+          - generic [ref=e343]:
+            - img [ref=e344]
+            - generic [ref=e348]: Latest Articles
+          - heading "Tech Insights & Blog Posts" [level=2] [ref=e349]
+        - link "View all" [ref=e350] [cursor=pointer]:
+          - /url: /about
+          - text: View all
+          - img [ref=e351]
+      - generic [ref=e353]:
+        - article [ref=e355]:
+          - generic [ref=e356]:
+            - img "Spring HATEOAS (Hypertext as the Engine of Application State)" [ref=e357]
+            - generic [ref=e360]: Featured
+          - generic [ref=e361]:
+            - generic [ref=e362]:
+              - generic [ref=e363]: Java
+              - generic [ref=e364]: Spring
+              - generic [ref=e365]: REST API
+              - generic [ref=e366]: HATEOAS
+            - heading "Spring HATEOAS (Hypertext as the Engine of Application State)" [level=2] [ref=e367]
+            - paragraph [ref=e368]: Spring HATEOAS provides REST API component to the client response shared with other network application meta-data information through processing the dynamic data — links to resources. HAL (Hypertext Application Language) is a format of resource representation that can be implemented in HATEOAS and also share the URI schema without breaking clients connectivity.
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - img [ref=e371]
+                - text: Arul
+              - generic [ref=e374]:
+                - img [ref=e375]
+                - text: 2nd July 2020
+            - link "Read more" [ref=e377] [cursor=pointer]:
+              - /url: https://github.com/arulkumar-lab/arului-apiservice
+              - text: Read more
+              - img [ref=e378]
+        - article [ref=e381]:
+          - img "Microprofile 3.3 Micro-services using Liberty" [ref=e383]
+          - generic [ref=e385]:
+            - generic [ref=e386]:
+              - generic [ref=e387]: Java
+              - generic [ref=e388]: Microservices
+              - generic [ref=e389]: MicroProfile
+              - generic [ref=e390]: Liberty
+            - heading "Microprofile 3.3 Micro-services using Liberty" [level=2] [ref=e391]
+            - paragraph [ref=e392]: Exploring MicroProfile 3.3 to build cloud-native microservices using Open Liberty. This article covers service discovery, health checks, and fault tolerance patterns that make enterprise Java microservices production-ready.
+            - generic [ref=e393]:
+              - generic [ref=e394]:
+                - img [ref=e395]
+                - text: Arul
+              - generic [ref=e398]:
+                - img [ref=e399]
+                - text: 19th June 2020
+            - link "Read more" [ref=e401] [cursor=pointer]:
+              - /url: https://github.com/arulkumar-lab/UserModule
+              - text: Read more
+              - img [ref=e402]
+        - generic [ref=e404]:
+          - img [ref=e406]
+          - generic [ref=e408]:
+            - heading "More articles coming soon" [level=3] [ref=e409]
+            - paragraph [ref=e410]: Exploring React, Cloud, CI/CD and more.
+          - link "Get notified" [ref=e411] [cursor=pointer]:
+            - /url: /contact
+    - generic [ref=e419]:
+      - heading "Let's work together" [level=2] [ref=e420]
+      - paragraph [ref=e421]: Have a project in mind or just want to chat? I'm always open to new opportunities and collaborations.
+      - generic [ref=e422]:
+        - link "Get in touch" [ref=e423] [cursor=pointer]:
+          - /url: /contact
+          - text: Get in touch
+          - img [ref=e424]
+        - link "View services" [ref=e426] [cursor=pointer]:
+          - /url: /services
+  - contentinfo [ref=e427]:
+    - generic [ref=e428]:
+      - generic [ref=e429]:
+        - generic [ref=e430]:
+          - generic [ref=e431]:
+            - img [ref=e433]
+            - generic [ref=e437]: A R U LUI
+          - paragraph [ref=e438]: UI Developer & Full-Stack Engineer from Glasgow. Passionate about building great web experiences from front to back.
+        - generic [ref=e439]:
+          - heading "Navigation" [level=3] [ref=e440]
+          - list [ref=e441]:
+            - listitem [ref=e442]:
+              - link "Home" [ref=e443] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e444]:
+              - link "About" [ref=e445] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e446]:
+              - link "Services" [ref=e447] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=e448]:
+              - link "Contact" [ref=e449] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e450]:
+          - heading "Connect" [level=3] [ref=e451]
+          - generic [ref=e452]:
+            - link "Twitter" [ref=e453] [cursor=pointer]:
+              - /url: https://twitter.com/@imarulkumar1
+              - img [ref=e454]
+            - link "Email" [ref=e456] [cursor=pointer]:
+              - /url: mailto:arul.ui.dev@gmail.com
+              - img [ref=e457]
+            - link "Pexels Photography" [ref=e460] [cursor=pointer]:
+              - /url: https://www.pexels.com/@arul-ui-2759067
+              - img [ref=e461]
+            - link "YouTube" [ref=e464] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/imarulkumar
+              - img [ref=e465]
+            - link "GitHub" [ref=e468] [cursor=pointer]:
+              - /url: https://github.com/arulkumar-lab
+              - img [ref=e469]
+      - generic [ref=e472]:
+        - paragraph [ref=e473]: © 2026 Developed by Arul. All rights reserved.
+        - button "Scroll to top" [ref=e474] [cursor=pointer]:
+          - img [ref=e475]
+          - text: Back to top
+  - alert [ref=e477]

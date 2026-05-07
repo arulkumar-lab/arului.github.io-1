@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "badge": "Full-Stack Engineer · AI Developer · MCP Practitioner · Glasgow",
+    "subheading": "Full-stack engineer with 1+ year of advanced AI development — building agentic workflows, integrating MCP servers, and shipping production features through vibe coding. Java, TypeScript, and the entire AI-native stack.",
+    "githubUrl": "https://github.com/arulkumar-lab"
+  },
+  "techStack": [
+    { "label": "React / Next.js",  "color": "from-blue-500 to-cyan-500"    },
+    { "label": "Java / Spring",    "color": "from-orange-500 to-yellow-500" },
+    { "label": "TypeScript",       "color": "from-blue-600 to-blue-400"    },
+    { "label": "CI/CD",            "color": "from-green-500 to-emerald-400" },
+    { "label": "Google Cloud",     "color": "from-red-500 to-orange-400"   },
+    { "label": "Microservices",    "color": "from-purple-500 to-violet-400" },
+    { "label": "GitHub Copilot",   "color": "from-indigo-500 to-purple-500" },
+    { "label": "MCP / AI Agents",  "color": "from-pink-500 to-rose-500"    },
+    { "label": "Vibe Coding",      "color": "from-teal-500 to-cyan-400"    },
+    { "label": "LLM Integration",  "color": "from-violet-600 to-purple-400" }
+  ],
+  "careerStats": [
+    { "value": "1+",  "label": "Years AI-Driven Dev",    "icon": "Brain",  "color": "from-purple-500 to-indigo-500" },
+    { "value": "15+", "label": "MCP Servers Integrated",  "icon": "Server", "color": "from-sky-500 to-cyan-500"     },
+    { "value": "50+", "label": "AI-Assisted Projects",    "icon": "Zap",    "color": "from-yellow-500 to-orange-500" },
+    { "value": "30+", "label": "Agentic Workflows Built", "icon": "Cpu",    "color": "from-teal-500 to-emerald-500"  }
+  ],
+  "aiActivities": [
+    {
+      "icon": "Brain",
+      "gradient": "from-purple-500 to-indigo-600",
+      "title": "Advanced AI Development",
+      "description": "Over a year of hands-on experience building AI-augmented full-stack applications — integrating LLMs, prompt engineering, RAG pipelines, and AI-powered APIs into production-grade systems.",
+      "tags": ["LLMs", "Prompt Engineering", "RAG", "AI APIs"]
+    },
+    {
+      "icon": "Zap",
+      "gradient": "from-yellow-500 to-orange-500",
+      "title": "Vibe Coding",
+      "description": "Pioneered a vibe-coding workflow using GitHub Copilot, Cursor, and Claude — dramatically accelerating development cycles. From rapid prototyping to production features, AI is embedded in every commit.",
+      "tags": ["GitHub Copilot", "Cursor", "Claude", "AI Pair Programming"]
+    },
+    {
+      "icon": "Server",
+      "gradient": "from-sky-500 to-cyan-600",
+      "title": "Advanced MCP Usage",
+      "description": "Deep expertise in Model Context Protocol — building and consuming MCP servers to extend AI agents with real-world tools: databases, APIs, CI/CD pipelines, Figma, GitHub, and more.",
+      "tags": ["MCP Servers", "AI Agents", "Tool Use", "Agentic Pipelines"]
+    },
+    {
+      "icon": "Layers",
+      "gradient": "from-teal-500 to-emerald-600",
+      "title": "Full-Stack AI Integration",
+      "description": "Bridging back-end Java/Spring services with AI-native front-ends in Next.js. Shipping features with agentic code review, AI-generated tests, and automated documentation at every layer of the stack.",
+      "tags": ["Next.js", "Spring Boot", "AI Testing", "Auto-Docs"]
+    }
+  ],
+  "activityHighlights": [
+    {
+      "title": "AI Development",
+      "iconColor": "text-yellow-500",
+      "items": [
+        "Shipped LLM-powered features in production apps",
+        "Built RAG pipelines with vector DBs",
+        "Integrated OpenAI, Claude & Gemini APIs",
+        "Prompt-engineered across 10+ domains"
+      ]
+    },
+    {
+      "title": "Vibe Coding",
+      "iconColor": "text-orange-500",
+      "items": [
+        "Daily GitHub Copilot & Cursor workflow",
+        "AI-generated tests & code reviews",
+        "Automated scaffolding via agent loops",
+        "Reduced delivery time by ~60%"
+      ]
+    },
+    {
+      "title": "Advanced MCP",
+      "iconColor": "text-sky-500",
+      "items": [
+        "Built custom MCP servers (GitHub, DB, CI/CD)",
+        "Orchestrated multi-agent task pipelines",
+        "Integrated Figma & browser automation via MCP",
+        "15+ MCP tools in active daily use"
+      ]
+    }
+  ],
+  "copilotCards": [
+    {
+      "icon": "Cpu",
+      "gradient": "from-indigo-500 to-purple-600",
+      "title": "AI Code Completions",
+      "desc": "Inline suggestions across every file — TypeScript, Java, CSS and more. Dramatically reduces boilerplate and accelerates feature delivery."
+    },
+    {
+      "icon": "Sparkles",
+      "gradient": "from-sky-500 to-cyan-500",
+      "title": "Copilot Chat",
+      "desc": "Context-aware conversations about code, architecture decisions, debugging, and refactoring — right inside the editor without context switching."
+    },
+    {
+      "icon": "Zap",
+      "gradient": "from-emerald-500 to-teal-500",
+      "title": "Agentic Workflows",
+      "desc": "Multi-step task automation using Copilot agents paired with MCP tools — scaffolding, code review, test generation and CI/CD orchestration."
+    }
+  ],
+  "copilotStats": [
+    { "value": "High",   "label": "PR Velocity",        "color": "text-sky-500"     },
+    { "value": "95%+",   "label": "Merge Success Rate",  "color": "text-emerald-500" },
+    { "value": "Daily",  "label": "Copilot Sessions",    "color": "text-indigo-500"  },
+    { "value": "Active", "label": "MCP Tool Use",        "color": "text-orange-500"  }
+  ],
+  "blogPosts": [
+    {
+      "title": "Spring HATEOAS (Hypertext as the Engine of Application State)",
+      "excerpt": "Spring HATEOAS provides REST API component to the client response shared with other network application meta-data information through processing the dynamic data — links to resources. HAL (Hypertext Application Language) is a format of resource representation that can be implemented in HATEOAS and also share the URI schema without breaking clients connectivity.",
+      "date": "2nd July 2020",
+      "author": "Arul",
+      "tags": ["Java", "Spring", "REST API", "HATEOAS"],
+      "image": "https://arului.github.io/images/profile.JPG",
+      "href": "https://github.com/arulkumar-lab/arului-apiservice",
+      "featured": true
+    },
+    {
+      "title": "Microprofile 3.3 Micro-services using Liberty",
+      "excerpt": "Exploring MicroProfile 3.3 to build cloud-native microservices using Open Liberty. This article covers service discovery, health checks, and fault tolerance patterns that make enterprise Java microservices production-ready.",
+      "date": "19th June 2020",
+      "author": "Arul",
+      "tags": ["Java", "Microservices", "MicroProfile", "Liberty"],
+      "image": "https://arului.github.io/images/profile.JPG",
+      "href": "https://github.com/arulkumar-lab/UserModule",
+      "featured": false
+    }
+  ]
+}
